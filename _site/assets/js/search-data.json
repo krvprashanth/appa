@@ -1,0 +1,80 @@
+{"0": {
+    "doc": "General Meetings",
+    "title": "General Meetings",
+    "content": "We planned to have a general meetings about Azolla Plants Protection Advisor project and here are minutes of meet! . ",
+    "url": "http://localhost:4000/docs/documentation/general-meetings/",
+    "relUrl": "/docs/documentation/general-meetings/"
+  },"1": {
+    "doc": "General Meetings",
+    "title": "Table of Contents",
+    "content": " ",
+    "url": "http://localhost:4000/docs/documentation/general-meetings/#table-of-contents",
+    "relUrl": "/docs/documentation/general-meetings/#table-of-contents"
+  },"2": {
+    "doc": "How-To Guides",
+    "title": "Table of Contents",
+    "content": " ",
+    "url": "http://localhost:4000/docs/documentation/how-to-guides/#table-of-contents",
+    "relUrl": "/docs/documentation/how-to-guides/#table-of-contents"
+  },"3": {
+    "doc": "How-To Guides",
+    "title": "How-To Guides",
+    "content": ". ",
+    "url": "http://localhost:4000/docs/documentation/how-to-guides/",
+    "relUrl": "/docs/documentation/how-to-guides/"
+  },"4": {
+    "doc": "Documentation",
+    "title": "Documentation",
+    "content": ". This documentation is about the new learning(s) and issue(s) resolvings on different aspects of project, and personal thoughts. It includes(or/with links): Personal Public thoughts, Artciles, Research in building Azolla Plants Protection Advisor(&amp; resources), Programming(issues and code), Sensor Data Acquisition and Processing, bash script command utilization, embedded machine learning frameworks(&amp; scripts), Embedded Systems, edge devices, text documentation, images, tutorial(links) and git links(Personal Pubic repository links). Note : This documentation is mainly intend to reduce time consumption for solving some issues which are already solved/used earlier, This is from our past experience of wasting my time for searching for issues solving and code shown/contributed/used are somtimes exculsively with Debian GNU/Linux and may not work with other Debian based systems or other Linux distributions. ",
+    "url": "http://localhost:4000/docs/documentation/",
+    "relUrl": "/docs/documentation/"
+  },"5": {
+    "doc": "Git Repositories",
+    "title": "Git Repositories",
+    "content": "Common software that is on or used in the project. ",
+    "url": "http://localhost:4000/docs/git-repositories/",
+    "relUrl": "/docs/git-repositories/"
+  },"6": {
+    "doc": "Home",
+    "title": "Industry Oriented Mini Project",
+    "content": "Azolla Plants Protection Advisor with a Multimodal Sensor, Mobile Application, and Embedded Machine Learning . ",
+    "url": "http://localhost:4000/#industry-oriented-mini-project",
+    "relUrl": "/#industry-oriented-mini-project"
+  },"7": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"8": {
+    "doc": "Industry Oriented Mini Project Live Blog!",
+    "title": "Industry Oriented Mini Project - Live Blog",
+    "content": ". Hey Folks…. This will be our live blog, where we will be writing here about our day to day ramblings, learnings and research while working on this project Azolla Plants Protection Advisor with a Multimodal Sensor, Mobile Application, and Embedded Machine Learning. ",
+    "url": "http://localhost:4000/live-blog/#industry-oriented-mini-project---live-blog",
+    "relUrl": "/live-blog/#industry-oriented-mini-project---live-blog"
+  },"9": {
+    "doc": "Industry Oriented Mini Project Live Blog!",
+    "title": "Industry Oriented Mini Project Live Blog!",
+    "content": " ",
+    "url": "http://localhost:4000/live-blog/",
+    "relUrl": "/live-blog/"
+  },"10": {
+    "doc": "Project Progress",
+    "title": "Project Progress",
+    "content": "These are the logs of our project, where we provide updates on the work done. | September 9, 2022 - Submitted Project Abstract for Review - 1 | . ",
+    "url": "http://localhost:4000/project-progress/",
+    "relUrl": "/project-progress/"
+  },"11": {
+    "doc": "Sprints",
+    "title": "Sprints",
+    "content": "“Sprints” are meetings to work on specific parts of project and having fun doing so. ",
+    "url": "http://localhost:4000/docs/documentation/sprints/",
+    "relUrl": "/docs/documentation/sprints/"
+  },"12": {
+    "doc": "Sprints",
+    "title": "Table of Contents",
+    "content": " ",
+    "url": "http://localhost:4000/docs/documentation/sprints/#table-of-contents",
+    "relUrl": "/docs/documentation/sprints/#table-of-contents"
+  }
+}
